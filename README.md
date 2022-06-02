@@ -5,6 +5,7 @@
 ## GET	/login		Se connecter
 ## GET	/logout		Se déconnecter
 
+
 ## POST	/user		Créer un utilisateur
 ## GET 	/user/{id}	Avoir informations d'un utilisateur
 ## PATCH 	/user/{id}	Modifier informations d'un utilisateur
